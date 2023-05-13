@@ -1,0 +1,17 @@
+body{
+    text-align: center;
+    margin-top: 100px;
+    background-color: brown;
+    height: 2px;
+}
+header{
+    color:aliceblue;
+    margin-bottom: 60px;
+}
+#logo{
+    padding: 30px;
+}
+#cup{
+    padding-top: 20px;
+}
+
